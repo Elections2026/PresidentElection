@@ -7,7 +7,7 @@ window.ELECTION_CONFIG = {
   timeZone: 'Asia/Tashkent',
   formUrl: 'https://forms.gle/E8LXjWM4ZaHcdfBH9',
   // ЯВКА: после проверки меняйте только эти две строки. Процент считается сам.
-  manualVotes: 0,
+  manualVotes: 56,
   // Время вашей последней проверки по Ташкенту. Пример: '2026-09-14T13:00:00+05:00'.
   // До первой проверки оставьте пустые кавычки.
   manualUpdatedAt: '',
