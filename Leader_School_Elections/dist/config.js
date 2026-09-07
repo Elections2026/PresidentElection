@@ -22,6 +22,8 @@ window.ELECTION_CONFIG = {
     { id: 'grade8', grade: '8', name: '', className: '', photo: '', tagline: '', bio: '', ideas: [], registered: false },
     { id: 'grade9', grade: '9', name: '', className: '', photo: '', tagline: '', bio: '', ideas: [], registered: false },
     { id: 'grade10', grade: '10', name: '', className: '', photo: '', tagline: '', bio: '', ideas: [], registered: false },
-    { id: 'grade11', grade: '11', name: '', className: '', photo: '', tagline: '', bio: '', ideas: [], registered: false }
+    { id: 'grade11', grade: '11', name Низамов Акбаршох: '', className Senior: '', photo: '', tagline: ''Главная идея или короткий слоган кандидата '', bio: ''Несколько предложений о кандидате: чем занимается, какой у него опыт и почему хочет стать Президентом.'', ideas: ['Первая конкретная идея для школы',
+    'Вторая конкретная идея',
+    'Третья конкретная идея'], registered: true }
   ]
 };
