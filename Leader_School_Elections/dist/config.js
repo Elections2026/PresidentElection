@@ -22,6 +22,6 @@ window.ELECTION_CONFIG = {
     { id: 'grade8', grade: '8', name: '', className: '', photo: '', tagline: '', bio: '', ideas: [], registered: false },
     { id: 'grade9', grade: '9', name: '', className: '', photo: '', tagline: '', bio: '', ideas: [], registered: false },
     { id: 'grade10', grade: '10', name: '', className: '', photo: '', tagline: '', bio: '', ideas: [], registered: false },
-    { id: 'grade10', grade: '10', name: '', className: '', photo: '', tagline: '', bio: '', ideas: [], registered: false },
+    { id: 'grade10', grade: '11', name: '', className: '', photo: '', tagline: '', bio: '', ideas: [], registered: false },
   ]
 };
