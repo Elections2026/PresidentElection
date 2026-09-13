@@ -1,9 +1,8 @@
-/* ВСЕ ДАННЫЕ, КОТОРЫЕ ВЫ МЕНЯЕТЕ, — ЗДЕСЬ. Инструкция: README.md */
 window.ELECTION_CONFIG = {
   schoolName: 'Leader School',
   totalVoters: 423,
-  opensAt: '2026-09-14T12:00:00+05:00',
-  closesAt: '2026-09-15T12:00:00+05:00',
+opensAt: '2026-09-18T09:00:00+05:00',
+closesAt: '2026-09-19T09:00:00+05:00',
   timeZone: 'Asia/Tashkent',
   formUrl: 'https://forms.gle/E8LXjWM4ZaHcdfBH9',
   // ЯВКА: после проверки меняйте только эти две строки. Процент считается сам.
