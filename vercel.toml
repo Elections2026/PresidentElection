@@ -1,4 +1,0 @@
-[build]
-  base = "."
-  publish = "Leader_School_Elections/dist"
-  command = ""
