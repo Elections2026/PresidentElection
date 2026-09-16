@@ -18,9 +18,10 @@ closesAt: '2026-09-18T09:00:00+05:00',
   // Фото положите в dist/assets/candidates/ и укажите 'assets/candidates/name.jpg'.
   // registered: true — кандидат зарегистрирован; false — место ещё не заполнено.
   candidates: [
-    { id: 'grade8', grade: '8', name: '', className: '', photo: '', tagline: '', bio: '', ideas: [], registered: false },
-    { id: 'grade9', grade: '9', name: '', className: '', photo: '', tagline: '', bio: '', ideas: [], registered: false },
-    { id: 'grade10', grade: '10', name: '', className: '', photo: '', tagline: '', bio: '', ideas: [], registered: false },
-    { id: 'grade10', grade: '11', name: '', className: '', photo: '', tagline: '', bio: '', ideas: [], registered: false },
+    { id: 'grade8', grade: '8', name: 'Ниязметов Амир', className:'8 Fortius', photo: '', tagline: '', bio: '', ideas: [], registered: true },
+    { id: 'grade9', grade: '9', name: 'Махаматшаева Шахинамалакбегим', className: '9 Fusion', photo: '', tagline: '', bio: '', ideas: [], registered: true },
+    { id: 'grade10', grade: '9', name: 'Пулатов Анвар', className: '9 Fusion', photo: '', tagline: '', bio: '', ideas: [], registered: true },
+    { id: 'grade10', grade: '10', name: 'Касимов Рауф', className: '10', photo: '', tagline: '', bio: '', ideas: [], registered: true },
+    { id: 'grade10', grade: '10', name: 'Рашидов Амир', className: '10', photo: '', tagline: '', bio: '', ideas: [], registered: true },
   ]
 };
