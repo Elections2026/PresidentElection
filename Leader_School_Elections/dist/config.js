@@ -4,7 +4,7 @@ window.ELECTION_CONFIG = {
 opensAt: '2026-09-17T09:00:00+05:00',
 closesAt: '2026-09-18T09:00:00+05:00',
   timeZone: 'Asia/Tashkent',
-  formUrl: 'https://forms.gle/E8LXjWM4ZaHcdfBH9',
+  formUrl: 'https://forms.gle/6zC1aENKgVsbUgJd6',
   // ЯВКА: после проверки меняйте только эти две строки. Процент считается сам.
   manualVotes: 0,
   // Время вашей последней проверки по Ташкенту. Пример: '2026-09-14T13:00:00+05:00'.
